@@ -17,3 +17,8 @@ google.com, pub-7912421797255123, DIRECT, f08c47fec0942fa0
 LexiQuest
 
 google.com, pub-7912421797255123, DIRECT, f08c47fec0942fa0
+
+
+Insurance Hub: Quotes & Policy
+
+google.com, pub-7912421797255123, DIRECT, f08c47fec0942fa0
